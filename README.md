@@ -1,4 +1,4 @@
 # stroomcre.com
 Stroom website
 
-Platform for Commercial Real Estate Asset Revenue Management
+Platform for Commercial Real Asset Revenue Management
