@@ -1,4 +1,4 @@
 # stroomcre.com
 Stroom website
 
-Platform for Commercial Real Asset Revenue Management
+Market Intelligence Platform for Multi-Family Acquisitions
