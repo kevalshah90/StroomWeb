@@ -1,0 +1,4 @@
+[26-Oct-2022 11:08:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/alphares1/public_html/strom/index.php on line 94
+[26-Oct-2022 11:08:41 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/alphares1/public_html/strom/index.php on line 94
+[28-Oct-2022 17:17:38 UTC] PHP Parse error:  syntax error, unexpected '').slick({' (T_ENCAPSED_AND_WHITESPACE) in /home/alphares1/public_html/strom/index.php on line 647
+[28-Oct-2022 17:17:43 UTC] PHP Parse error:  syntax error, unexpected '').slick({' (T_ENCAPSED_AND_WHITESPACE) in /home/alphares1/public_html/strom/index.php on line 647
